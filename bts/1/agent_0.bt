@@ -12,7 +12,7 @@
       {
         "activated": true,
         "metadata": {
-          "label": ""
+          "label": "Mon label"
         },
         "properties": {
           "name": "Say",
