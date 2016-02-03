@@ -32,9 +32,9 @@
               ],
               "outputParams": [
                 {
-                  "key": "answer2",
+                  "key": "answer",
                   "type": "entityKnowledge",
-                  "value": "answer"
+                  "value": "answerMessage"
                 }
               ]
             },
@@ -53,7 +53,7 @@
                 {
                   "key": "message",
                   "type": "entityKnowledge",
-                  "value": "answer"
+                  "value": "answerMessage"
                 }
               ],
               "outputParams": []
