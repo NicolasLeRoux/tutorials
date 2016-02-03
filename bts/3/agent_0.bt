@@ -1,6 +1,6 @@
 [
   {
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "metadata": {
@@ -44,7 +44,7 @@
           {
             "activated": true,
             "metadata": {
-              "label": ""
+              "label": "Ma condition"
             },
             "properties": {
               "op1": {
@@ -53,7 +53,7 @@
               },
               "op2": {
                 "type": "string",
-                "value": ""
+                "value": "Nicolas"
               },
               "op": "!="
             },
