@@ -1,6 +1,6 @@
 [
   {
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "activated": true,
@@ -21,6 +21,11 @@
               "key": "message",
               "type": "string",
               "value": "Hello World!"
+            },
+            {
+              "key": "message",
+              "type": "string",
+              "value": "Test"
             }
           ],
           "outputParams": []
