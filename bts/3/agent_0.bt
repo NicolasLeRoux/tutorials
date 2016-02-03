@@ -53,7 +53,7 @@
               },
               "op2": {
                 "type": "string",
-                "value": "Nicolas"
+                "value": ""
               },
               "op": "!="
             },
