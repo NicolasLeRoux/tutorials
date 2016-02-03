@@ -1,6 +1,6 @@
 [
   {
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   {
     "activated": true,
@@ -32,7 +32,7 @@
               ],
               "outputParams": [
                 {
-                  "key": "answer",
+                  "key": "answer2",
                   "type": "entityKnowledge",
                   "value": "answer"
                 }
