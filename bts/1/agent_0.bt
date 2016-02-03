@@ -21,11 +21,6 @@
               "key": "message",
               "type": "string",
               "value": "Hello World!"
-            },
-            {
-              "key": "message",
-              "type": "string",
-              "value": "Test"
             }
           ],
           "outputParams": []
